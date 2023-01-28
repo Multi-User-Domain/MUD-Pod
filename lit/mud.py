@@ -13,5 +13,5 @@ class MUD:
 
 
 class MUD_ACCT:
-    Account = MUD_ACCT_BASE_URL + "#Account",
+    Account = MUD_ACCT_BASE_URL + "#Account"
     charactersList = MUD_ACCT_BASE_URL + "#CharacterList"
